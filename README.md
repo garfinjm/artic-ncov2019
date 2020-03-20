@@ -2,3 +2,4 @@
 
 Initial implementation of an ARTIC bioinformatics platform for nanopore sequencing of nCoV2019 novel coronavirus. 
 
+Modified for MN Primer set
